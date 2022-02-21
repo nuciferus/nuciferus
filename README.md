@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuciferus
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in all things Javascript
 - 🌱 I’m currently learning ReactJS with GraphQL
 
 <!---
